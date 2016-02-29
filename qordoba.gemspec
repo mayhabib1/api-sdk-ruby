@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name        = 'qordoba'
   s.version     = '1.0'
   s.summary     = 'qordoba'
-  s.description = 'This API SDK was automatically by Qordoba Beta 2.0'
+  s.description = 'This API SDK was created automatically by Qordoba Beta 2.0'
   s.authors     = ["Qordoba", ""]
   s.email       = 'hello@qordoba.com'
   s.homepage    = 'https://qordoba.com'
